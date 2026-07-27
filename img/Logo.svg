@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Thirteen Enterprises root icon</title>
+  <desc id="desc">A red forward slash centered on a white square background.</desc>
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <path d="M 180 406 L 332 106"
+        fill="none"
+        stroke="#D60000"
+        stroke-width="72"
+        stroke-linecap="round"/>
+</svg>
